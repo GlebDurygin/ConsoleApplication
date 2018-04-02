@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  ConsoleApplicationDuryginGleb.cpp
+c:\users\tatyana\desktop\все\3 курс\безопасность операционных систем\consoleapplicationdurygingleb\consoleapplicationdurygingleb\consoleapplicationdurygingleb.cpp(18): warning C4129: -: неизвестная escape-последовательность
+c:\users\tatyana\desktop\все\3 курс\безопасность операционных систем\consoleapplicationdurygingleb\consoleapplicationdurygingleb\consoleapplicationdurygingleb.cpp(18): warning C4129: (: неизвестная escape-последовательность
+c:\users\tatyana\desktop\все\3 курс\безопасность операционных систем\consoleapplicationdurygingleb\consoleapplicationdurygingleb\consoleapplicationdurygingleb.cpp(19): warning C4129: ): неизвестная escape-последовательность
+c:\users\tatyana\desktop\все\3 курс\безопасность операционных систем\consoleapplicationdurygingleb\consoleapplicationdurygingleb\consoleapplicationdurygingleb.cpp(45): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\tatyana\desktop\все\3 курс\безопасность операционных систем\consoleapplicationdurygingleb\consoleapplicationdurygingleb\consoleapplicationdurygingleb.cpp(47): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\tatyana\desktop\все\3 курс\безопасность операционных систем\consoleapplicationdurygingleb\consoleapplicationdurygingleb\consoleapplicationdurygingleb.cpp(102): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\tatyana\desktop\все\3 курс\безопасность операционных систем\consoleapplicationdurygingleb\consoleapplicationdurygingleb\consoleapplicationdurygingleb.cpp(117): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\tatyana\desktop\все\3 курс\безопасность операционных систем\consoleapplicationdurygingleb\consoleapplicationdurygingleb\consoleapplicationdurygingleb.cpp(185): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\tatyana\desktop\все\3 курс\безопасность операционных систем\consoleapplicationdurygingleb\consoleapplicationdurygingleb\consoleapplicationdurygingleb.cpp(200): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\tatyana\desktop\все\3 курс\безопасность операционных систем\consoleapplicationdurygingleb\consoleapplicationdurygingleb\consoleapplicationdurygingleb.cpp(252): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplicationDuryginGleb.vcxproj -> C:\Users\Tatyana\Desktop\все\3 курс\Безопасность операционных систем\ConsoleApplicationDuryginGleb\Debug\ConsoleApplicationDuryginGleb.exe
+  ConsoleApplicationDuryginGleb.vcxproj -> C:\Users\Tatyana\Desktop\все\3 курс\Безопасность операционных систем\ConsoleApplicationDuryginGleb\Debug\ConsoleApplicationDuryginGleb.pdb (Full PDB)
